@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "topic": "Art Class",
+    "description": "For people who love arts and want to master.",
+    "location": "Hendon",
+    "price": 549,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "space": 100,
+    "brand": "",
+    "category": "Arts",
+    "thumbnail": "src/assets/2.png",
+    "images": [
+      "src/assets/2.png"
+    ]
+  },
+  {
+    "studentName": "Art Class",
+    "spaces": 3,
+    "lessons": [
+      {
+        "lessonId": 1
+      },
+      {
+        "lessonId": 2
+      }
+    ],
+    "phoneNumber": "+97150000000"
+  }
+]
